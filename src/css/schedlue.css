@@ -1,0 +1,21 @@
+.calendar{
+	position: relative;
+	text-align: center;
+	padding: 0 3% 0 3%;
+}
+.calendar ul{
+	margin: 0 auto;
+	overflow: hidden;
+	border: 1px solid #D9D9D9;
+}
+.calendar li{
+	float: left;
+	width: 14.2%;
+	padding:3.5% 0;
+}
+.cld_day li:nth-child(even){
+	background-color: #D9D9D9;
+}
+.cld_hd{
+	border: 1px solid #D9D9D9;
+}

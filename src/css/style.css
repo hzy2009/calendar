@@ -1,0 +1,36 @@
+html, body{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #FBF9FE;
+}
+li{
+	list-style-type:none;
+}
+.container{
+    height: inherit;
+}
+.hd{
+    margin: 0 auto;
+    padding: 2em 0;
+}
+.bd{
+
+}
+.spacing{
+    padding: 120px 15px;
+}
+.page_title{
+    text-align: center;
+    font-size: 34px;
+    color: #3CC51F;
+    font-weight: 400;
+    margin: 0 15%;
+}
+.footer{
+}
+.rsv_img{
+	height: 50px;
+	margin-right: 7px;
+}
+
